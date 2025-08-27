@@ -12,7 +12,8 @@
       "@navigation/*": ["navigations/*"],
       "@components/*": ["components/*"],
       "@screens/*": ["screens/*"],
-      "@store/*": ["redux/*"]
+      "@models/*": ["models/*"],
+      "@redux/*": ["redux/*"]
     }
   }
 }
