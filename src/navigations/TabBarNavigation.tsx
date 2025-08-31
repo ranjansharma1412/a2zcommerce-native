@@ -1,13 +1,13 @@
+import CartIcon from "@assets/common/CartIcon";
+import CategoryIcon from "@assets/common/CategoryIcon";
+import HomeIcon from "@assets/common/HomeIcon";
+import ProfileIcon from "@assets/common/ProfileIcon";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import CartList from "@screens/carts/cartList/CartList";
 import Dashboard from "@screens/dashboard/Dashboard";
 import Category from "@screens/product/category/Category";
 import Profile from "@screens/profile/Profile";
 import { COLORS } from "@themes/colors";
-import CartIcon from "../assets/common/CartIcon";
-import CategoryIcon from "../assets/common/CategoryIcon";
-import HomeIcon from "../assets/common/HomeIcon";
-import ProfileIcon from "../assets/common/ProfileIcon";
 
 
 const Tab = createBottomTabNavigator();

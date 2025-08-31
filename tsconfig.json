@@ -15,7 +15,8 @@
       "@models/*": ["models/*"],
       "@redux/*": ["redux/*"],
       "@themes/*": ["themes/*"],
-      "@assets/*": ["assets/*"]
+      "@assets/*": ["assets/*"],
+      "@httpHelper/*": ["httpHelper/*"]
     }
   }
 }

@@ -10,9 +10,11 @@ module.exports = {
         '@components': './src/components',
         '@screens': './src/screens',
         '@utils': './src/utils',
+        '@assets': './src/assets',
         '@redux': './src/redux',
         '@themes': './src/themes',
-        '@models': './src/models'
+        '@models': './src/models',
+        '@httpHelper': './src/httpHelper'
       }
     },
     ],
