@@ -13,7 +13,8 @@
       "@components/*": ["components/*"],
       "@screens/*": ["screens/*"],
       "@models/*": ["models/*"],
-      "@redux/*": ["redux/*"]
+      "@redux/*": ["redux/*"],
+      "@themes/*": ["themes/*"]
     }
   }
 }

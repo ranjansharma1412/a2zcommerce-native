@@ -21,10 +21,10 @@ export const authSlice = createSlice({
             state.user = actions.payload
         },
         setIsUserLogin: (state, actions) => {
-            state.user = actions.payload
+            state.isUserLogin = actions.payload
         },
         setUserType: (state, actions) => {
-            state.user = actions.payload
+            state.userType = actions.payload
         },
     },
 })
