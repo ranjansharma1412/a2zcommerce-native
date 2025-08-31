@@ -14,7 +14,8 @@
       "@screens/*": ["screens/*"],
       "@models/*": ["models/*"],
       "@redux/*": ["redux/*"],
-      "@themes/*": ["themes/*"]
+      "@themes/*": ["themes/*"],
+      "@assets/*": ["assets/*"]
     }
   }
 }
