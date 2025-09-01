@@ -1,0 +1,2 @@
+
+export const ALPHA_NUMERIC_REGEX = "ASDSD"
