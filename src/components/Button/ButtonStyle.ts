@@ -32,11 +32,11 @@ export const useButtonStyles = () => {
       borderRadius: 4,
       borderWidth: 1,
       borderColor: COLORS.LIGHT_GREY,
-      marginRight: 8,
+      marginRight: 8
     },
     rememberText: {
       fontSize: responsiveFont(14),
-      color: COLORS.LIGHT_GREY,
+      color: COLORS.LIGHT_GREY
     },
   });
 };
