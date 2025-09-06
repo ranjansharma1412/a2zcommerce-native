@@ -23,7 +23,6 @@ function App() {
       <SafeAreaProvider>
         {/* <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
         <RootNavigation /> */}
-        {/* <SignIn/> */}
         <SignUp/>
       </SafeAreaProvider>
     </Provider>
